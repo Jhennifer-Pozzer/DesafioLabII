@@ -11,9 +11,9 @@ O projeto é dividido em etapas:
 
 Etapa     Conteúdo
   --------- -------------------------------------
-Etapa 1   Labirinto
-Etapa 2   Lista estática
-Etapa 3   Pilha/Stack estática
+Etapa 1   Labirinto,
+Etapa 2   Lista estática,
+Etapa 3   Pilha/Stack estática,
 Etapa 4   Estruturas encadeadas (Queue/Stack)
 
 ------------------------------------------------------------------------
